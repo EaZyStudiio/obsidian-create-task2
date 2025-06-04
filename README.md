@@ -1,3 +1,15 @@
+# MY NEEDS
+
+tp.file.cursor like solution to adding tasks in a complex note
+Better Tasks Creation Modal Just Uses Tasks Plugin own with the description of this one
+Tasks to note support with custom templates depending on day, file or area.
+ - create a new tasks but that task can be a mastertask with subtasks so it's turns into a note inside of it are the subtasks which can rinse and repete till eternity
+ - We neeed this note to be distinguishable from normal notes hence the automatic template, and we also need to move it to a folder depending on same day,file or area 
+
+
+
+---
+
 <h1 align="center">Create Task</h1>
 
 <p align="center">Create tasks faster from anywhere.</p>
